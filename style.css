@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+.bg-primary {
+    color: beige;
+}
+#header {
+    color: red;
+}
+.text {
+    color: aqua;
+}
+.content {
+    height: 300px;
+}
